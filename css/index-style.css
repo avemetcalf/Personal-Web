@@ -7,7 +7,7 @@
 .hero{
 	height: 100vh;
 	width: 100%;
-/* background-image: url(../img/background-bw.jpg); */
+background-image: url(../img/background-bw.jpg);
 	background-color: #858585;
 	background-size: cover;
 	background-position: center;
@@ -33,6 +33,8 @@ nav ul li{
 	list-style-type: none;
 	display: inline-block;
 	padding: 10px  25px;
+	background: lightgray;
+	
 }
 nav ul li a{
 	color: red;
